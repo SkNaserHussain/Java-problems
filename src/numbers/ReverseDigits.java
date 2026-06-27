@@ -1,6 +1,6 @@
 package numbers;
 
-public class ReverseNumber {
+public class ReverseDigits {
 public static void printDigits(int num) {
 	while(num!=0) {
 		int ld=num%10;
