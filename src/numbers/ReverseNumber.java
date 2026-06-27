@@ -1,6 +1,6 @@
 package numbers;
 
-public class reverseNumber {
+public class ReverseNumber {
 public static int printNumber(int num) {
 	int rev=0;
 	while(num!=0) {

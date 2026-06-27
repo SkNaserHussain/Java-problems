@@ -1,6 +1,6 @@
 package numbers;
 
-public class countOfDigits {
+public class CountOfDigits {
 public static int countDigits(int num) {
 	int count=0;
 	while(num!=0) {

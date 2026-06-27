@@ -1,6 +1,6 @@
 package numbers;
 
-public class powerDigit {
+public class PowerDigit {
 public static int power(int base,int exp) {
 	int power=1;
 	while(exp>0) {
