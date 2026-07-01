@@ -1,5 +1,5 @@
 //Write a program in java to find the count of sub array of size k whose average is greater than x...Given array={2,1,5,1,3,2} and k=3 and x=2.
-package Array;
+package arrays;
 
 public class CountSubarrayAverageGreaterThanX {
 public static int subArrayAvg(int[] arr, int k, int x) {

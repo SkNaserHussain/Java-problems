@@ -1,6 +1,6 @@
 //Write a program in java to print most minimum sum of sub arrays whose size is k 
 
-package Array;
+package arrays;
 
 public class MinimumSubArraySum {
 public static int minSubarraysum(int[] arr, int k) {

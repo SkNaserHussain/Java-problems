@@ -1,6 +1,6 @@
 //Write a java program to print the sum of sub arrays whose size is k, given array 3,5,2,1,8,4,9 and k=3
 
-package Array;
+package arrays;
 
 public class SubArraySumK {
 public static void subArraysum(int[] arr,int k) {
