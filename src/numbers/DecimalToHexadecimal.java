@@ -4,8 +4,8 @@
 
 package numbers;
 
-public class HexadecimalToBinary {
-public static void binaryConversion(int num) {
+public class DecimalToHexadecimal {
+public static void conversion(int num) {
 	String str="";
 	String hexDigits="0123456789ABCDEF";
 	while(num!=0) {
@@ -16,6 +16,6 @@ public static void binaryConversion(int num) {
 	System.out.println(str);
 }
 public static void main(String[] args) {
-	binaryConversion(15);
+	conversion(15);
 }
 }
