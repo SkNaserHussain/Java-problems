@@ -1,3 +1,10 @@
+/*
+ * Write a Java program to perform Linear Search.
+ * Return the index of the target element if found,
+ * otherwise return -1.
+ */
+
+
 package searching;
 
 public class LinearSearch {
@@ -15,7 +22,7 @@ public static int linearSearch(int[] arr, int target) {
 }
 public static void main(String[] args) {
 int[] arr= {16,25,8,12,35,59,64,42,38};
-int target=65;
+int target=59;
 int ans=linearSearch(arr,target);
 System.out.println(ans);
 }
